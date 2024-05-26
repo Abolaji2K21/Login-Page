@@ -53,7 +53,7 @@ const LoginRegistration = () => {
 
             <div className="form-box signup">
                 <form action="">
-                    <h1> SignUp </h1>
+                    <h1> Bee_Jays App </h1>
                     <div className="input-box">
                         <input type="text"
                                placeholder='Username' required/>
@@ -66,12 +66,12 @@ const LoginRegistration = () => {
                     </div>
                     <div className="input-box">
                         <input type="text"
-                               placeholder='firstname' required/>
+                               placeholder='FirstName' required/>
                         <FaUserTag className="icon"/>
                     </div>
                     <div className="input-box">
                         <input type="text"
-                               placeholder='lastnamee' required/>
+                               placeholder='LastName' required/>
                         <FaUserTag className="icon"/>
                     </div>
                     <div className="remember-forgot">
