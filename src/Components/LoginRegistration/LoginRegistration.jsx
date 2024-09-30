@@ -89,7 +89,7 @@ const LoginRegistration = () => {
 
         </div>
 
-
+        // <div></div>
     );
 };
 
